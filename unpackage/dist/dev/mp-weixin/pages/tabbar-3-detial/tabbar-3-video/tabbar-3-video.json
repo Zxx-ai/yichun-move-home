@@ -1,0 +1,8 @@
+{
+  "navigationBarTitleText": "视频点播",
+  "navigationBarBackgroundColor": "#007AFF",
+  "navigationBarTextStyle": "white",
+  "usingComponents": {
+    "yfs-video": "/components/yfs-video/yfs-video"
+  }
+}

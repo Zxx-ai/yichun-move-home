@@ -1,0 +1,15 @@
+{
+  "navigationBarTitleText": "回收中心",
+  "navigationBarBackgroundColor": "#007AFF",
+  "navigationBarTextStyle": "white",
+  "usingComponents": {
+    "tabbar-2-u-waterfall-left": "/pages/tabbar/tabbar-2/tabbar-2-u-waterfall-left",
+    "tabbar-2-u-waterfall-right": "/pages/tabbar/tabbar-2/tabbar-2-u-waterfall-right",
+    "drag-ball": "/components/drag-ball/drag-ball",
+    "u-button": "/node-modules/uview-ui/components/u-button/u-button",
+    "u-waterfall": "/node-modules/uview-ui/components/u-waterfall/u-waterfall",
+    "u-lazy-load": "/node-modules/uview-ui/components/u-lazy-load/u-lazy-load",
+    "u-icon": "/node-modules/uview-ui/components/u-icon/u-icon",
+    "u-loadmore": "/node-modules/uview-ui/components/u-loadmore/u-loadmore"
+  }
+}

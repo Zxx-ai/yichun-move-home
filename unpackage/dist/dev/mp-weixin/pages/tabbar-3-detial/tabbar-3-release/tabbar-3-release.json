@@ -1,0 +1,9 @@
+{
+  "navigationBarTitleText": "热点资讯",
+  "navigationBarBackgroundColor": "#007AFF",
+  "navigationBarTextStyle": "white",
+  "usingComponents": {
+    "u-card": "/node-modules/uview-ui/components/u-card/u-card",
+    "u-icon": "/node-modules/uview-ui/components/u-icon/u-icon"
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "navigationBarTitleText": "客户评价",
+  "navigationBarBackgroundColor": "#007AFF",
+  "navigationBarTextStyle": "white",
+  "usingComponents": {
+    "hm-reply-card": "/components/hm-reply-card/index"
+  }
+}

@@ -1,0 +1,1 @@
+<view class="contact"><map style="{{'height:'+(nowMapIndex?nintyPercentScreenHeight:seventyPercentScreenHeight)+';'+('width:'+('750rpx')+';')+('height:'+('100vh')+';')}}" name longitude="{{jingdu}}" latitude="{{weidu}}" markers="{{marks}}" scale="15"></map></view>
